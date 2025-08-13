@@ -1,5 +1,6 @@
-# batman-06.github.io
+# finding stories in chaos
 # Data Scientist
+
 
 ### Education
 M.Tech CS, ISI Kolkata
